@@ -1,12 +1,8 @@
 -<h1>C.J. Williams</h1> 
 
-'Technologist(Electronics/Low Voltage/Embedded)'
+'Technology Journeyman(Electronics/Low Voltage/Embedded/Backend)'
 
-- 👀 Life long techie, built my first radio at 10y/o wrote my first code in DOS prompt in Jr.Hs. 
-- 🌱 10 years exp in IT, Web and Software Dev.
-- Skillz in Linux, Python, MySQl, Django, REST Api, AWS, Back-End, Data Visualization, HTML, CSS, JavaScript, NodeJS, Bootstrap, ReactJS, Solidity.
-- 💞️ I’m looking to collaborate on anything new, I'm mostly interested in IoT, Data and Energy projects.
-- 📫 Email cw@cjwilliamstec.com 
+I'm a well rounded technologist with a good depth of skills. Most of my career I've been a systems engineer/technician installing and servicing integrated low voltage systems.   
 
 <!---
 cjwilliamstech/cjwilliamstech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
