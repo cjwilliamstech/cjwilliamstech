@@ -1,8 +1,11 @@
 -<h1>C.J. Williams</h1> 
 
-'Technology Journeyman(Electronics/Low Voltage/Embedded/Backend)'
+'Technology Journeyman(Backend/Python/IoT/Systems)'
 
-I'm a well rounded technologist with a good depth of skills. Most of my career I've been a systems engineer/technician installing and servicing integrated low voltage systems.   
+I'm a well rounded technolgist with a large depth of skills.
+
+contact me: cw@cjwilliamstech.com
+  
 
 <!---
 cjwilliamstech/cjwilliamstech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
