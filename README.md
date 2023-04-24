@@ -1,6 +1,6 @@
 -<h1>C.J. Williams</h1> 
 
-**'Technologist(Electronics and Low Voltage Sytems)'**
+'Technologist(Electronics/Low Voltage/Embedded)'
 
 - 👀 Life long techie, built my first radio at 10y/o wrote my first code in DOS prompt in Jr.Hs. 
 - 🌱 10 years exp in IT, Web and Software Dev.
