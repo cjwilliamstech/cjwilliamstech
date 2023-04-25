@@ -1,6 +1,6 @@
 -<h1>C.J. Williams</h1> 
 
-'Technology Journeyman(Backend/Python/IoT/Systems)'
+'Technology Journeyman(Backend/Python/System Engineer/Linux)'
 
 I'm a well rounded technolgist with a large depth of skills.
 
